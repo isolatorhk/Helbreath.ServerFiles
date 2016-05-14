@@ -69,31 +69,6 @@ teleport-loc     =     453    281     icebound	          264     260   8
 teleport-loc     =     452    282     icebound	          264     260   8
 teleport-loc     =     453    282     icebound	          264     260   8
 
-//Middlel left top
-/teleport-loc     =      22   165  	istria 		38	31   2
-/teleport-loc     =      22   166  	istria 		38	31   2
-/teleport-loc     =      22   167 	istria 		38	31   2
-/teleport-loc     =      22   168  	istria 		38	31   2
-/teleport-loc     =      22   169  	istria 		38	31   2
-/teleport-loc     =      22   170  	istria 		38	31   2
-/teleport-loc     =      22   171  	istria 		38	31   2
-/teleport-loc     =      22   172  	istria 		38	31   2
-
-
-//Middlel left
-/teleport-loc     =      23   297  	istria 		216 	24   2
-/teleport-loc     =      24   297  	istria 		216 	24   2
-/teleport-loc     =      24   298  	istria 		216 	24   2
-/teleport-loc     =      25   298  	istria 		216 	24   2
-/teleport-loc     =      25   299  	istria 		216 	24   2
-/teleport-loc     =      26   298  	istria 		216 	24   2
-/teleport-loc     =      26   299  	istria 		216 	24   2
-/teleport-loc     =      29   299  	istria 		216 	24   2
-/teleport-loc     =      26   300  	istria 		216 	24   2
-/teleport-loc     =      27   300  	istria 		216 	24   2
-/teleport-loc     =      27   301  	istria 		216 	24   2
-/teleport-loc     =      28   301  	istria 		216 	24   2
-
 //-No-Attack-Area----------Num-----RECT-------------
 no-attack-area           = 1       346 499 355 503
 no-attack-area           = 2       99 20 107 25
@@ -174,8 +149,8 @@ spot-mob-generator      = 23 1	166     204     216     254     59      6
 spot-mob-generator      = 24 1  224     225	234     240     59      3
 spot-mob-generator      = 25 1  150     215     170     235     59      3
 
-//MG
-spot-mob-generator	= 26 1	25	250	40	260	58	7
+//Stalk 2nd pit
+spot-mob-generator	= 26 1	25	250	40	260	48	5
 
 //Hellclaw Biger Range Area
 spot-mob-generator	= 27 1	450	125	470	390	49	2
