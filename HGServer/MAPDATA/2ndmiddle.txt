@@ -72,11 +72,11 @@ random-mob-generator	= 1  16
 spot-mob-generator	= 1  1     50 160  75 180   17  23
 spot-mob-generator	= 2  1     45  75  65 100   17  23
 // Zombies
-spot-mob-generator	= 4  1    115 195 135 215   18  20
-spot-mob-generator	= 5  1    130  40 150  60   18  20
+spot-mob-generator	= 4  1    115 195 135 215   14  20
+spot-mob-generator	= 5  1    130  40 150  60   14  20
 // Orcs
-spot-mob-generator	= 6  1    165 180 185 200   14  24
-spot-mob-generator	= 7  1     45  35  65  55   14  24
+spot-mob-generator	= 6  1    165 180 185 200   18  24
+spot-mob-generator	= 7  1     45  35  65  55   18  24
 // Skeletons
 spot-mob-generator	= 8  1     85 195 100 210   11  24
 spot-mob-generator	= 9  1     60  70  75  85   11  24
